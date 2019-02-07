@@ -1,6 +1,5 @@
 import matplotlib.pyplot as pp
 import numpy as bg
-# צריך לעבוד על השגיאות...
 
 
 def fit_linear(filename):
