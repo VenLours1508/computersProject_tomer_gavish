@@ -261,4 +261,4 @@ def change(mod):
     return m
 
 
-fit_linear("InputExcemple")
+# # fit_linear("InputExcemple")
